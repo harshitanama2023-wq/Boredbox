@@ -1,0 +1,11 @@
+{
+  "name": "Playshelf",
+  "short_name": "Playshelf",
+  "description": "Quick browser games that keep working offline.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef2fb",
+  "theme_color": "#3355ff",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
