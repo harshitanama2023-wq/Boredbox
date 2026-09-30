@@ -1,0 +1,11 @@
+{
+  "name": "Boredbox",
+  "short_name": "Boredbox",
+  "description": "Little games for bored moments. They keep working even when the Wi-Fi doesn't.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1edff",
+  "theme_color": "#6a2cf5",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
